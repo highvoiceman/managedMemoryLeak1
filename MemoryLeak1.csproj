@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LargeObject.cs" />
     <Compile Include="LeakyApp.cs" />
     <Compile Include="LeakyData.cs" />
     <Compile Include="LeakyEventHandler.cs" />
